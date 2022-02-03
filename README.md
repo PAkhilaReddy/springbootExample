@@ -9,6 +9,8 @@ Enhancements to be done:
 
 Authentication -> Authenticator can be added
 
+Spring security can be added
+
 Moving password to Child table with One to ne mapping
 Re Authentication for reset password , Confidential information change.
 
